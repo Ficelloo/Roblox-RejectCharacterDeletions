@@ -4,7 +4,7 @@
 
 -- weld will be saved in a client sided part called "Your username Protected Welds", you'll have again full control of ur welds
 
-function Attachments(P0,P1,POS,ROT)
+function Attachments(P0,P1,POS,ROT) -- credit to the guy who made this align function
     local AlignPosition = Instance.new("AlignPosition", P0)
     local AlignOrientation = Instance.new("AlignOrientation", P0)
     local Attachment1 = Instance.new("Attachment", P0)
