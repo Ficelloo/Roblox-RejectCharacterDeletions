@@ -1,4 +1,5 @@
 # this method has been patched since roblox made respawning server sided
+I made this repo archived.
 # Roblox-RejectCharacterDeletions
 Hey! this is all of my work during march-april making this "bypass" more like a work around ngl
 
